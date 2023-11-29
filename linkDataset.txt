@@ -1,0 +1,7 @@
+https://www.kaggle.com/code/niharika41298/netflix-visualizations-recommendation-eda
+
+https://www.kaggle.com/code/mykytazharov/imdb-text-classification-embedding-nn-in-keras/notebook
+
+https://www.kaggle.com/code/keswanirohit/netflix-visualization-and-eda
+
+https://www.kaggle.com/code/gcdatkin/eeg-emotion-prediction/notebook
